@@ -19,7 +19,8 @@ automation suite.
 - [PCB Layout Tools](#pcb-layout-tools)
     - [Footprint Library Tools](#footprint-library-tools)
     - [Layout Tools](#layout-tools)
-
+- [Viewer Tools](#viewer-tools)
+    - [KiCad Format Viewer Tools](#kicad-format-viewer-tools)
 <!-- /TOC -->
 
 
@@ -79,6 +80,14 @@ and ball grid arrays (BGAs).
 ### Layout Tools
 
 - [Laksen/kicad-bga-tools](https://github.com/Laksen/kicad-bga-tools) - A script to generate via fanouts for BGA components on a board.
+
+
+
+## Viewer Tools
+
+### KiCad Format Viewer Tools
+
+- [eyrie.io](http://eyrie.io) - Insight into KiCad EDA designs using a web browser on desktop, laptop, tablet or phone. Browser based schematic and layout viewer that uses WebGL for fast viewing of even complex KiCad designs. Eyrie URLs preview well on Twitter and Facebook and allow deep linking to specific views and design elements. oEmbed support means Eyrie URLs embed well on sites like Wordpress with previews. Eyrie can view KiCad files directly from GitHub, Dropbox or via drag/drop upload to the browser. Google Doc style comments allows for clear discussion about specific aspects of KiCad designs. Octopart integration allows for detailed expression of design intent using real world part specs and datasheets. Free for open source designs and students.
 
 ## License
 
